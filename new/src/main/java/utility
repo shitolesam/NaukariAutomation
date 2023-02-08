@@ -1,0 +1,3 @@
+string browser ="webdriver.driver.chrome"
+string path = "E:\setup\chrome\new\chromedriver.exe"
+URL="https://www.naukri.com/mnjuser/homepage"
